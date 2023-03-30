@@ -1,0 +1,368 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\H425159\\Downloads\\BackendAssessment\\BackendAssessment\\Matchbook.Server\\Matchbook.Tests\\Matchbook.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\H425159\\Downloads\\BackendAssessment\\BackendAssessment\\Matchbook.Server\\Matchbook.Db.TestData\\Matchbook.Db.TestData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\H425159\\Downloads\\BackendAssessment\\BackendAssessment\\Matchbook.Server\\Matchbook.Db.TestData\\Matchbook.Db.TestData.csproj",
+        "projectName": "Matchbook.Db.TestData",
+        "projectPath": "C:\\Users\\H425159\\Downloads\\BackendAssessment\\BackendAssessment\\Matchbook.Server\\Matchbook.Db.TestData\\Matchbook.Db.TestData.csproj",
+        "packagesPath": "C:\\Users\\H425159\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\H425159\\Downloads\\BackendAssessment\\BackendAssessment\\Matchbook.Server\\Matchbook.Db.TestData\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\H425159\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "targetAlias": "netcoreapp3.0",
+            "projectReferences": {
+              "C:\\Users\\H425159\\Downloads\\BackendAssessment\\BackendAssessment\\Matchbook.Server\\Matchbook.Db\\Matchbook.Db.csproj": {
+                "projectPath": "C:\\Users\\H425159\\Downloads\\BackendAssessment\\BackendAssessment\\Matchbook.Server\\Matchbook.Db\\Matchbook.Db.csproj"
+              },
+              "C:\\Users\\H425159\\Downloads\\BackendAssessment\\BackendAssessment\\Matchbook.Server\\Matchbook.Model\\Matchbook.Model.csproj": {
+                "projectPath": "C:\\Users\\H425159\\Downloads\\BackendAssessment\\BackendAssessment\\Matchbook.Server\\Matchbook.Model\\Matchbook.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[28.3.2, )"
+            },
+            "morelinq": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\H425159\\Downloads\\BackendAssessment\\BackendAssessment\\Matchbook.Server\\Matchbook.Db\\Matchbook.Db.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\H425159\\Downloads\\BackendAssessment\\BackendAssessment\\Matchbook.Server\\Matchbook.Db\\Matchbook.Db.csproj",
+        "projectName": "Matchbook.Db",
+        "projectPath": "C:\\Users\\H425159\\Downloads\\BackendAssessment\\BackendAssessment\\Matchbook.Server\\Matchbook.Db\\Matchbook.Db.csproj",
+        "packagesPath": "C:\\Users\\H425159\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\H425159\\Downloads\\BackendAssessment\\BackendAssessment\\Matchbook.Server\\Matchbook.Db\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\H425159\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "targetAlias": "netcoreapp3.0",
+            "projectReferences": {
+              "C:\\Users\\H425159\\Downloads\\BackendAssessment\\BackendAssessment\\Matchbook.Server\\Matchbook.Model\\Matchbook.Model.csproj": {
+                "projectPath": "C:\\Users\\H425159\\Downloads\\BackendAssessment\\BackendAssessment\\Matchbook.Server\\Matchbook.Model\\Matchbook.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\H425159\\Downloads\\BackendAssessment\\BackendAssessment\\Matchbook.Server\\Matchbook.Model\\Matchbook.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\H425159\\Downloads\\BackendAssessment\\BackendAssessment\\Matchbook.Server\\Matchbook.Model\\Matchbook.Model.csproj",
+        "projectName": "Matchbook.Model",
+        "projectPath": "C:\\Users\\H425159\\Downloads\\BackendAssessment\\BackendAssessment\\Matchbook.Server\\Matchbook.Model\\Matchbook.Model.csproj",
+        "packagesPath": "C:\\Users\\H425159\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\H425159\\Downloads\\BackendAssessment\\BackendAssessment\\Matchbook.Server\\Matchbook.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\H425159\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\H425159\\Downloads\\BackendAssessment\\BackendAssessment\\Matchbook.Server\\Matchbook.Tests\\Matchbook.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\H425159\\Downloads\\BackendAssessment\\BackendAssessment\\Matchbook.Server\\Matchbook.Tests\\Matchbook.Tests.csproj",
+        "projectName": "Matchbook.Tests",
+        "projectPath": "C:\\Users\\H425159\\Downloads\\BackendAssessment\\BackendAssessment\\Matchbook.Server\\Matchbook.Tests\\Matchbook.Tests.csproj",
+        "packagesPath": "C:\\Users\\H425159\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\H425159\\Downloads\\BackendAssessment\\BackendAssessment\\Matchbook.Server\\Matchbook.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\H425159\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "targetAlias": "netcoreapp3.0",
+            "projectReferences": {
+              "C:\\Users\\H425159\\Downloads\\BackendAssessment\\BackendAssessment\\Matchbook.Server\\Matchbook.Db.TestData\\Matchbook.Db.TestData.csproj": {
+                "projectPath": "C:\\Users\\H425159\\Downloads\\BackendAssessment\\BackendAssessment\\Matchbook.Server\\Matchbook.Db.TestData\\Matchbook.Db.TestData.csproj"
+              },
+              "C:\\Users\\H425159\\Downloads\\BackendAssessment\\BackendAssessment\\Matchbook.Server\\Matchbook.Db\\Matchbook.Db.csproj": {
+                "projectPath": "C:\\Users\\H425159\\Downloads\\BackendAssessment\\BackendAssessment\\Matchbook.Server\\Matchbook.Db\\Matchbook.Db.csproj"
+              },
+              "C:\\Users\\H425159\\Downloads\\BackendAssessment\\BackendAssessment\\Matchbook.Server\\Matchbook.Model\\Matchbook.Model.csproj": {
+                "projectPath": "C:\\Users\\H425159\\Downloads\\BackendAssessment\\BackendAssessment\\Matchbook.Server\\Matchbook.Model\\Matchbook.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[28.3.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.3.0, )"
+            },
+            "morelinq": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

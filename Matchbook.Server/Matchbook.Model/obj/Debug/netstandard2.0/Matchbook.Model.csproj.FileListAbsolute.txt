@@ -1,0 +1,10 @@
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Model\bin\Debug\netstandard2.0\Matchbook.Model.deps.json
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Model\bin\Debug\netstandard2.0\Matchbook.Model.dll
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Model\bin\Debug\netstandard2.0\Matchbook.Model.pdb
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Model\obj\Debug\netstandard2.0\Matchbook.Model.csproj.AssemblyReference.cache
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Model\obj\Debug\netstandard2.0\Matchbook.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Model\obj\Debug\netstandard2.0\Matchbook.Model.AssemblyInfoInputs.cache
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Model\obj\Debug\netstandard2.0\Matchbook.Model.AssemblyInfo.cs
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Model\obj\Debug\netstandard2.0\Matchbook.Model.csproj.CoreCompileInputs.cache
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Model\obj\Debug\netstandard2.0\Matchbook.Model.dll
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Model\obj\Debug\netstandard2.0\Matchbook.Model.pdb

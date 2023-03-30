@@ -1,0 +1,16 @@
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Db\bin\Debug\netcoreapp3.0\Matchbook.Db.deps.json
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Db\bin\Debug\netcoreapp3.0\Matchbook.Db.dll
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Db\bin\Debug\netcoreapp3.0\Matchbook.Db.pdb
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Db\bin\Debug\netcoreapp3.0\Matchbook.Model.dll
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Db\bin\Debug\netcoreapp3.0\Matchbook.Model.pdb
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Db\obj\Debug\netcoreapp3.0\Matchbook.Db.csproj.AssemblyReference.cache
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Db\obj\Debug\netcoreapp3.0\Matchbook.Db.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Db\obj\Debug\netcoreapp3.0\Matchbook.Db.AssemblyInfoInputs.cache
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Db\obj\Debug\netcoreapp3.0\Matchbook.Db.AssemblyInfo.cs
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Db\obj\Debug\netcoreapp3.0\Matchbook.Db.csproj.CoreCompileInputs.cache
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Db\obj\Debug\netcoreapp3.0\Matchbook.Db.csproj.CopyComplete
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Db\obj\Debug\netcoreapp3.0\Matchbook.Db.dll
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Db\obj\Debug\netcoreapp3.0\Matchbook.Db.pdb
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Db\bin\Debug\netcoreapp3.0\Matchbook.Db.runtimeconfig.json
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Db\bin\Debug\netcoreapp3.0\Matchbook.Db.runtimeconfig.dev.json
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Db\obj\Debug\netcoreapp3.0\Matchbook.Db.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Db.TestData\bin\Debug\netcoreapp3.0\Matchbook.Db.TestData.deps.json
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Db.TestData\bin\Debug\netcoreapp3.0\Matchbook.Db.TestData.dll
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Db.TestData\bin\Debug\netcoreapp3.0\Matchbook.Db.TestData.pdb
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Db.TestData\bin\Debug\netcoreapp3.0\Matchbook.Db.dll
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Db.TestData\bin\Debug\netcoreapp3.0\Matchbook.Model.dll
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Db.TestData\bin\Debug\netcoreapp3.0\Matchbook.Db.pdb
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Db.TestData\bin\Debug\netcoreapp3.0\Matchbook.Model.pdb
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Db.TestData\obj\Debug\netcoreapp3.0\Matchbook.Db.TestData.csproj.AssemblyReference.cache
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Db.TestData\obj\Debug\netcoreapp3.0\Matchbook.Db.TestData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Db.TestData\obj\Debug\netcoreapp3.0\Matchbook.Db.TestData.AssemblyInfoInputs.cache
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Db.TestData\obj\Debug\netcoreapp3.0\Matchbook.Db.TestData.AssemblyInfo.cs
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Db.TestData\obj\Debug\netcoreapp3.0\Matchbook.Db.TestData.csproj.CoreCompileInputs.cache
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Db.TestData\obj\Debug\netcoreapp3.0\Matchbook.Db.TestData.csproj.CopyComplete
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Db.TestData\obj\Debug\netcoreapp3.0\Matchbook.Db.TestData.dll
+C:\Users\H425159\Downloads\BackendAssessment\BackendAssessment\Matchbook.Server\Matchbook.Db.TestData\obj\Debug\netcoreapp3.0\Matchbook.Db.TestData.pdb
